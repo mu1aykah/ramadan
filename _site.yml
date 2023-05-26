@@ -1,0 +1,17 @@
+name: "mulaykah"
+title: "islam"
+description: |
+
+ My website can guide and provide you with knowledge about the beauty of the peacful religion of islam!!
+  islam
+output_dir: "docs"
+theme: "my_theme.css"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Information"
+      href: Information.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
