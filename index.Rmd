@@ -1,0 +1,31 @@
+---
+title: "𝓲𝓼𝓵𝓪𝓶"
+image: "https://i.pinimg.com/236x/64/14/01/641401f84212c0af915efee948ab4f68.jpg"
+links:
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: 'https://twitter.com/R_Girls_School target="_blank"'
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: 'https://github.com/R-Girls target="_blank"'
+  - label: '<i class="fas fa-envelope"></i> Contact Us'
+    url: "mailto:mulaykah.abdurrahman_20@greenoak.bham.sch.uk"
+output:
+  postcards::solana
+site: distill::distill_website  
+---
+ 
+## 
+
+Islam, is one of the most wide spread religions across the world. this website will provide a range of information coming from trusted muslim sources! hopefully, once you've browsed through my website you'll leave it with a lot of knowledge🤍.
+
+﷽,﷽,
+"in the name of God, Most Gracious, Most Merciful ♡
+
+this is a dua recited before you carry out any action as it is said to bless what ever you are doing!!
+
+𝐓𝐡𝐞 𝐰𝐨𝐫𝐝 𝐈𝐬𝐥𝐚𝐦 𝐦𝐞𝐚𝐧𝐬 '𝐬𝐮𝐛𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐭𝐨 𝐭𝐡𝐞 𝐰𝐢𝐥𝐥 𝐨𝐟 𝐆𝐨𝐝'.
+𝐈𝐬𝐥𝐚𝐦 𝐢𝐬 𝐭𝐡𝐞 𝐬𝐞𝐜𝐨𝐧𝐝 𝐥𝐚𝐫𝐠𝐞𝐬𝐭 𝐫𝐞𝐥𝐢𝐠𝐢𝐨𝐧 𝐢𝐧 𝐭𝐡𝐞 𝐰𝐨𝐫𝐥𝐝 𝐰𝐢𝐭𝐡 𝐨𝐯𝐞𝐫 𝟏 𝐛𝐢𝐥𝐥𝐢𝐨𝐧 𝐟𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬. 𝐓𝐡𝐞 𝟐𝟎𝟎𝟏 𝐜𝐞𝐧𝐬𝐮𝐬 𝐫𝐞𝐜𝐨𝐫𝐝𝐞𝐝 𝟏,𝟓𝟗𝟏,𝟎𝟎𝟎 𝐌𝐮𝐬𝐥𝐢𝐦𝐬 𝐢𝐧 𝐭𝐡𝐞 𝐔𝐊, 𝐚𝐫𝐨𝐮𝐧𝐝 𝟐.𝟕% 𝐨𝐟 𝐭𝐡𝐞 𝐩𝐨𝐩𝐮𝐥𝐚𝐭𝐢𝐨𝐧.
+
+يَا مُوسَىٰ إِنَّهُ أَنَا اللَّـهُ الْعَزِيزُ الْحَكِيمُ
+
+O Moussa (Moses), indeed, I am Allah, the Exalted in Might, the Wise
+
