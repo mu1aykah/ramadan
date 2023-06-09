@@ -1,5 +1,5 @@
 ---
-title: "Information"
+title: "About"
 description: |
   More Information here
 

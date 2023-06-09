@@ -1,26 +1,18 @@
 name: "mulaykah"
 title: "islam"
-<<<<<<< HEAD
+home:
 description: |
-
- My website can guide and provide you with knowledge about the beauty of the peacful religion of islam!!
-  islam
 output_dir: "docs"
 theme: "my_theme.css"
-=======
-description: my website can guide and provide you with knowledge about the beauty of the peacful religion of islam!!
-  islam
-output_dir: "docs"
->>>>>>> 56332ecbdf4a25c4b267d8882d088c218cc22a53
 navbar:
-  right:
-    - text: "Home"
-      href: index.html
-<<<<<<< HEAD
-    - text: "Information"
-      href: Information.html
-=======
->>>>>>> 56332ecbdf4a25c4b267d8882d088c218cc22a53
-    - text: "About"
-      href: about.html
+ right:
+   - text: "home"
+     href: index.html
+   - text: "Information"
+     href: Information.html
+   - text: "about"
+     href: about.html
+   - text: "The Importance of Islam"
+     href: about.html
+  
 output: distill::distill_article
