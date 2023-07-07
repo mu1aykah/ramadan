@@ -24,8 +24,8 @@ html {
   --title-color:     #6B6054;
   --header-color:    #A48A79;
   --body-color:      #CCB69B;
-  --aside-color:     rgba(0, 0, 0, 0.6);
-  --fig-cap-color:   rgba(0, 0, 0, 0.6);
+  --aside-color:     #5E4A31;
+  --fig-cap-color:   #AB9387;
   /*-- Specify custom fonts ~~~ must be imported above   --*/
   --heading-font:    sans-serif;
   --mono-font:       monospace;
