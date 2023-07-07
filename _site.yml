@@ -1,15 +1,15 @@
 name: "mulaykah"
 title: "Home"
-home:
-description: |
+description:
 output_dir: "docs"
 theme: "my_theme.css"
 navbar:
- right:
-   - text: "Home"
-     href: index.html
-   - text: "The Importance of Islam"
-     href: The_Importance_of_Islam.html
-   - text: "about"
-     href: about.html 
+  right:
+      - text: "Home"
+        href: index.html
+      - text: "The Importance of Islam"
+        href: The_Importance_of_Islam.html
+      - text: "about"
+        href: about.html 
 output: distill::distill_article
+
