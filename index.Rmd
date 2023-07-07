@@ -13,7 +13,7 @@ output:
 site: distill::distill_website  
 ---
  
-## 
+## Introduction
 
 Islam, is one of the most wide spread religions across the world. this website will provide a range of information coming from trusted muslim sources! hopefully, once you've browsed through my website you'll leave it with a lot of knowledge🤍.
 
