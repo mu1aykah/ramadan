@@ -23,7 +23,7 @@ html {
   /*-- Main font colors --*/
   --title-color:     #6B6054;
   --header-color:    #A48A79;
-  --body-color:      #CC3F0C;
+  --body-color:      #CCB69B;
   --aside-color:     rgba(0, 0, 0, 0.6);
   --fig-cap-color:   rgba(0, 0, 0, 0.6);
   /*-- Specify custom fonts ~~~ must be imported above   --*/
@@ -66,11 +66,11 @@ d-appendix {
   --bkgd-color:       #0F2E3D;
 }
 
-.distill-site-footer {
+.distill-site-footer {#CCB69B;
   --text-color:       rgba(255, 255, 255, 0.8);
-  --text-size:        15px;
-  --hover-color:      beige;
-  --bkgd-color:       #0F2E3D;
+  --text-size:        20px;
+  --hover-color:      #CCB69B;
+  --bkgd-color:       #5E4A31;
 }
 
 /*-- Additional custom styles --*/
